@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Asisten Keluarga</string>
+    <string name="accessibility_description">Membantu melindungi perangkat dari penggunaan yang tidak dikenal</string>
+    <string name="channel_name">Asisten Keluarga Aktif</string>
+    <string name="channel_desc">Layanan perlindungan perangkat berjalan</string>
+</resources>
